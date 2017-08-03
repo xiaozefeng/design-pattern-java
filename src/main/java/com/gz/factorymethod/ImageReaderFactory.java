@@ -7,4 +7,11 @@ public interface ImageReaderFactory {
      * @return
      */
      ImageReader createImageReader();
+
+    /**
+     * 默认方法
+     */
+    default void read(){
+         this.createImageReader().read();
+     }
 }
