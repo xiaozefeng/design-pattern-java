@@ -1,5 +1,8 @@
 package com.gz.builderpattern;
 
+/**
+ * @author xiaozefeng
+ */
 public abstract class VideoPlayerBuilder {
     protected  VideoPlayer player = new VideoPlayer();
 

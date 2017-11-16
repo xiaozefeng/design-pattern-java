@@ -2,6 +2,7 @@ package com.gz.sington;
 
 /**
  * 静态内部类实现懒加载的单例
+ * @author xiaozefeng
  */
 public class SingletonD {
 

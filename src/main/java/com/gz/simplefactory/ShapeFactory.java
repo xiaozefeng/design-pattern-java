@@ -1,5 +1,8 @@
 package com.gz.simplefactory;
 
+/**
+ * @author xiaozefeng
+ */
 public class ShapeFactory {
 
     private ShapeFactory() {

@@ -1,5 +1,8 @@
 package com.gz.abstractfactory;
 
+/**
+ * @author xiaozefeng
+ */
 public class AndroidOperationController implements OperationController{
 
     @Override

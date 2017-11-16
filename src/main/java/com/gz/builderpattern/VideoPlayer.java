@@ -1,5 +1,8 @@
 package com.gz.builderpattern;
 
+/**
+ * @author xiaozefeng
+ */
 public class VideoPlayer {
     private String menu;
 

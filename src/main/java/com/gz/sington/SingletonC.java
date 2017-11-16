@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * 枚举实现单例
+ * @author xiaozefeng
  */
 public enum SingletonC {
     INSTANCE;

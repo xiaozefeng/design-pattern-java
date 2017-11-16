@@ -1,5 +1,8 @@
 package com.gz.builderpattern;
 
+/**
+ * @author xiaozefeng
+ */
 public class Main {
     public static void main(String[] args) {
         //VideoPlayerBuilder builder = new TidyModelVideoPlayerBuilder();

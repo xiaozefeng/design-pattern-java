@@ -1,5 +1,8 @@
 package com.gz.builderpattern;
 
+/**
+ * @author xiaozefeng
+ */
 public class TidyModelVideoPlayerBuilder extends VideoPlayerBuilder {
     @Override
     void buildMenu() {

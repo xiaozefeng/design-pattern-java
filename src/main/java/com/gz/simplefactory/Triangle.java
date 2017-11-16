@@ -2,6 +2,7 @@ package com.gz.simplefactory;
 
 /**
  * 三角形
+ * @author xiaozefeng
  */
 public class Triangle implements Shape{
 

@@ -1,5 +1,9 @@
 package com.gz.factorymethod;
 
+/**
+ *
+ * @author xiaozefeng
+ */
 public class GIFImageReader implements ImageReader {
     @Override
     public void read() {

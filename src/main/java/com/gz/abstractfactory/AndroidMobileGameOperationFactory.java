@@ -1,5 +1,8 @@
 package com.gz.abstractfactory;
 
+/**
+ * @author xiaozefeng
+ */
 public class AndroidMobileGameOperationFactory implements MobileGameOperationFactory {
     @Override
     public OperationController createOperationController() {

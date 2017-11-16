@@ -1,5 +1,8 @@
 package com.gz.factorymethod;
 
+/**
+ * @author xiaozefeng
+ */
 public interface ImageReaderFactory {
 
     /**
