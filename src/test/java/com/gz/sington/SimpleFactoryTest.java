@@ -1,8 +1,8 @@
 package com.gz.sington;
 
-import com.gz.simple_factory.Shape;
-import com.gz.simple_factory.ShapeFactory;
-import com.gz.simple_factory.UnSupportedShapeException;
+import com.gz.simple.factory.Shape;
+import com.gz.simple.factory.ShapeFactory;
+import com.gz.simple.factory.UnSupportedShapeException;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

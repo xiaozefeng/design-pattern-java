@@ -1,4 +1,4 @@
-package com.gz.simple_factory;
+package com.gz.simple.factory;
 
 /**
  *

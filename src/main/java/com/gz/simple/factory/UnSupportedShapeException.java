@@ -1,11 +1,9 @@
-package com.gz.simple_factory;
+package com.gz.simple.factory;
 
 /**
  * @author xiaozefeng
  */
 public class UnSupportedShapeException extends Exception {
-    public UnSupportedShapeException() {
-    }
 
     public UnSupportedShapeException(String message) {
         super(message);
