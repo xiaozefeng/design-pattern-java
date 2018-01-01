@@ -4,7 +4,7 @@ package com.gz.builderpattern;
  * @author xiaozefeng
  */
 public class VideoPlayerBuildController {
-    private VideoPlayerBuilder builder = null;
+    private VideoPlayerBuilder builder;
 
     public VideoPlayerBuildController(VideoPlayerBuilder builder){
         this.builder = builder;
