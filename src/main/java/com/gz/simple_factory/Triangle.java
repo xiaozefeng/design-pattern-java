@@ -8,11 +8,11 @@ public class Triangle implements Shape{
 
     @Override
     public String draw() {
-        return "";
+        return "Drawing Triangle";
     }
 
     @Override
     public String erase() {
-        return "";
+        return "Erasing Triangle";
     }
 }
