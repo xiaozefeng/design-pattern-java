@@ -1,4 +1,4 @@
-package com.gz.simplefactory;
+package com.gz.simple_factory;
 
 /**
  * 三角形
